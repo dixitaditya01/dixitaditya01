@@ -1,5 +1,7 @@
 # 💫 About Me:
+🐍 Python Programmer<br>
 🔭 I’m currently working on Data Science and Machine Learning Projects<br>
+💻 Also work on other developement Projects
 
 
 # 💻 Tech Stack:
