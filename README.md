@@ -1,19 +1,35 @@
-# 💫 About Me:
-🐍 Python Programmer<br>
-🔭 I’m currently working on Data Science and Machine Learning Projects<br>
-💻 Also work on other developement Projects
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dixitaditya01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dixitaditya01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dixitaditya01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  Software Engineer | Python Developer | Applied AI Enthusiast<br/>
+  Building scalable systems & AI-powered tools at a fast-paced fintech startup
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dixitaditya01&icon=5&color=1)](https://visitcount.itsvg.in)
 
+### 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a software engineer at a fast-moving startup, where I work at the intersection of AI and backend systems. Over the past couple of years, I've designed AI-driven components, built tools for intelligent data extraction, and developed core product features with a strong focus on clean architecture and real-world impact.
+
+I enjoy solving problems end-to-end — from research and prototyping to deployment and optimization. Currently Working on creating some fun and unique AI Projects.
+---
+
+### 🛠️ Tech & Tools I Work With
+
+- **Languages & Frameworks:** `Python`
+- **AI & ML Tools:** `OpenAI`, `Ollama`, `LLMs`, `Prompt Engineering`, `Tesseract OCR`, `LangChain`
+- **Dev & Infra:** `Docker`, `Airflow`, `SQL`, `PostgreSQL`, `Git`, `Linux`, `Regex`
+- **Data:** `Pandas`, `NumPy`, `Excel Automation`, `Financial Data Pipelines`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide=contribs&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
+
+---
+
