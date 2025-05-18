@@ -23,13 +23,3 @@ I enjoy solving problems end-to-end — from research and prototyping to deploym
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide=contribs&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
-
----
-
