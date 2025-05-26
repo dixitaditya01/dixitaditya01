@@ -18,9 +18,9 @@ I enjoy solving problems end-to-end — from research and prototyping to deploym
 ### 🛠️ Tech & Tools I Work With
 
 - **Languages & Frameworks:** `Python`
-- **AI & ML Tools:** `OpenAI`, `Ollama`, `LLMs`, `Prompt Engineering`, `Tesseract OCR`, `LangChain`
-- **Dev & Infra:** `Docker`, `Airflow`, `SQL`, `PostgreSQL`, `Git`, `Linux`, `Regex`
-- **Data:** `Pandas`, `NumPy`, `Excel Automation`, `Financial Data Pipelines`
+- **AI & ML Tools:** `OpenAI`, `Ollama`, `Mistral`, `LLMs`, `Prompt Engineering`, `Tesseract OCR`, `LangChain`
+- **Dev & Infra:** `Django`, `Flask`, `Docker`, `Airflow`, `SQL`, `Mongo`, `Git`, `Linux`, `Regex`
+- **Data:** `Pandas`, `NumPy` , `Financial Data Pipelines`
 
 ---
 
